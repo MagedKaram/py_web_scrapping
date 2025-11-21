@@ -1,0 +1,6 @@
+[phases.setup]
+aptPkgs = [
+    "chromium",
+    "chromium-driver",
+    "google-chrome-stable"
+]
